@@ -1,0 +1,23 @@
+{
+  "repo": "serum-full",
+  "product": "Serum Full",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "synthesizer",
+  "topics": [
+    "xfer-serum",
+    "wavetable-osc-desk",
+    "formant-warp-windows",
+    "serum-2026",
+    "how-to-install-serum",
+    "serum-desktop-package",
+    "hyper-macro-suite",
+    "noise-sub-tools",
+    "vst-synth-studio",
+    "serum-all-plugins"
+  ],
+  "site": "toolix.me"
+}
